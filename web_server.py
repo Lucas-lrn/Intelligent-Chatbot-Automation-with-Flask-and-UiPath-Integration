@@ -12,7 +12,7 @@ last_ai_response = {}
 
 # ---------- CONFIG (SETUP) ----------
 URL = 'https://cloud.uipath.com/cloudnfxpxxr/DefaultTenant/orchestrator_/'
-TOKEN = 'rt_5F1B89F956A03A391AFD44B62576F87E3175C99270C65982759342F8712D0D0C-1'
+TOKEN = 'Your_Token'
 FOLDER_NAME = "AI.Integration"
 HEARDERS = {
     "Authorization": "Bearer " + TOKEN,
